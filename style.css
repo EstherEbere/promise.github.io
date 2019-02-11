@@ -1,0 +1,48 @@
+
+
+html,
+body{width:100%;
+height:100%;}
+
+
+#hea{background-image:url(bss.jpg);
+background-size:cover;
+background-position:center;
+width:100%;
+height:100%;
+
+}
+
+.faded{ color: rgba(255, 255, 255, 0.8);}
+
+.btn-xl{padding: 1rem 1rem;}
+
+.btn{border-radius:200px;
+font-size:13px;
+background:orange;
+
+
+
+}
+
+#h{font-family:cursive;
+border-radius:10px;
+font-size:2rem;
+color:white;
+font-weight:bold;}
+
+#par{font-family:cursive;
+color:yellow;
+font-size:25px;
+}
+
+hr{border:1px solid white;
+margin-top:200px;
+width:170px;}
+
+.btn-danger:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
